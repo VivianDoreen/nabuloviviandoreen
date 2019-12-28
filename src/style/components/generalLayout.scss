@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap");
+html {
+  line-height: 1.5;
+  font-family: "Ma Shan Zheng", cursive;
+  font-weight: normal;
+  color: rgba(0, 0, 0, 0);
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.mainDiv {
+  display: grid;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 20% 1fr 1fr;
+  grid-gap: 1px;
+  width: 100vw;
+  height: 100vh;
+}
+
+.mainDiv > div {
+  min-width: 0;
+  min-height: 0;
+  text-align: center;
+}
+
+.mainDiv #grid_side_menu {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  border-radius: 5px;
+  height: 100%;
+}
+
+.mainDiv #main-section {
+  grid-column-start: 2;
+  grid-column-end: 6;
+  background-image: url("../../assets/background_image.jpeg");
+  background-size: 100%;
+  text-align: justify;
+  font-size: 100px;
+}
+
+h1 {
+  color: #b0bfae;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 40px !important;
+  margin-bottom: 0px;
+  color: #2e8b57;
+  word-spacing: 20px;
+}
+
+h2 {
+  // border: 1px solid green;
+  background-color: #2e8b57;
+  padding: 15px;
+  margin-top: 15px;
+  text-align: center;
+  color: #ffffff;
+  margin-left: -2px;
+}
+
+.content {
+  // border: 1px solid red;
+  width: 80%;
+  font-size: 17px;
+  margin: 50px auto;
+  line-height: 2;
+}
