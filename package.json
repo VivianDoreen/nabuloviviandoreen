@@ -8,7 +8,7 @@
     "build": "webpack --mode production --open --hot",
     "start:dev": "webpack-dev-server --open --mode development --hot ",
     "heroku-postbuild": "npm run build",
-    "start:api": "node server.js",
+    "start:api": "node server.js"
   },
   "engines": {
     "node": "14"
