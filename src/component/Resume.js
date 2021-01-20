@@ -1,17 +1,24 @@
-import React from "react";
+import React from 'react';
 
 const Resume = () => {
-  return (
-    <div id="main-section">
-      <h1 style={{ margin: "30px" }}>Resume</h1>
-      <div className="content">
-        I am a software developer with a passion for developing clean and
-        reusable code with performance in mind. You are a problem solver at
-        heart and you are thrilled to crack difficult problems. You have strong
-        analytical skills but you're also a team player with good communication
-        skills. But, most importantly: you are eager to learn.
-      </div>
-    </div>
-  );
+	return (
+		<div className='content'>
+			<div className='card' style={{ color: '#000000' }}>
+				<h1 style={{ margin: '30px' }}>Resume</h1>
+				<div className='content-abt'>
+					<p style={{ textAlign: 'center', background: 'none' }}>
+						Kindly find my resume -
+						<a
+							style={{ color: 'green' }}
+							target='_blank'
+							href='https://docs.google.com/document/d/1xveJa8ZzeiL4wdyn3h1BYCN1nJkNcfLhtwMlhWx2lds/edit?usp=sharing'
+						>
+							Here
+						</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	);
 };
 export default Resume;
