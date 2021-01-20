@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/VivianDoreen/nabuloviviandoreen/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/VivianDoreen/nabuloviviandoreen#readme",
   "dependencies": {
     "@babel/plugin-transform-runtime": "^7.3.4",
     "@emotion/core": "^10.0.22",
