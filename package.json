@@ -26,6 +26,7 @@
     "@emotion/core": "^10.0.22",
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-class-properties": "6.24.1",
+    "express": "^4.17.1",
     "node-sass": "^4.14.1",
     "react": "^16.9.0",
     "react-burger-menu": "^2.6.13",
