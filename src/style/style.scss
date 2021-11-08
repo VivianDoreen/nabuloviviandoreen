@@ -72,7 +72,7 @@ header{
   margin-top: 70px;
   padding-top:20px;
   z-index: 1;
-  background: #B0BFAD;
+  background: #9aba97;
   height:calc(100% - 9%);
   transition: 0.5s;
   transition-property: left;
@@ -95,7 +95,9 @@ margin-bottom: 0px;
 }
 
 .sidebar .profile-info h4{
-  color:#1b5836;
+  color:#033E20;
+  font-weight: bolder;
+  text-align: center;
   margin-bottom: 10px;
 }
 
@@ -163,7 +165,7 @@ label #sidebar-btn:hover{
   box-sizing:border-box;
   padding-left:250px;
   padding-top:90px;
-  background-image: url("../assets/background_image.jpeg");
+  background-image: url("../assets/background_image_v2\ copy.png");
   background-position: center;
   background-size: cover;
   border:2px solid #E9E8E8;

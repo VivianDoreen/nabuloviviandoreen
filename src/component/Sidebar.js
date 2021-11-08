@@ -9,7 +9,7 @@ function Sidebar() {
 		<div className='sidebar' style={{ marginLeft: `${menu ? '-185px' : '0px'}` }}>
 			<div className='profile-info' style={{ display: `${menu ? 'none' : 'flex'}` }}>
 				<img src={portifolio} className='profile-img' alt='profile_pic' />
-				<h4>Nabulo Vivian Doreen</h4>
+				<h4>NABULO VIVIAN<br/> DOREEN</h4>
 			</div>
 			<hr style={{ display: `${menu ? 'none' : 'block'}` }} />
 			<div className='menu'>
