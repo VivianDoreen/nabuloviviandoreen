@@ -11,7 +11,7 @@ const Resume = () => {
 						<a
 							style={{ color: 'green' }}
 							target='_blank'
-							href='https://docs.google.com/document/d/1xveJa8ZzeiL4wdyn3h1BYCN1nJkNcfLhtwMlhWx2lds/edit?usp=sharing'
+							href='https://docs.google.com/document/d/1i6Uyt96SPL2XT4PI5o3gXOQQGIMjATZNQfp2q_FAEg4/edit?usp=sharing'
 						>
 							Here
 						</a>
