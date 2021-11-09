@@ -4,10 +4,11 @@
   "description": "My portifolio",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "build": "webpack --mode production --open --hot",
-    "dev": "webpack-dev-server --open --mode development --hot ",
+    "start:dev": "webpack-dev-server --open --mode development --hot ",
     "heroku-postbuild": "npm run build",
-    "start": "node server.js"
+    "start:api": "node server.js"
   },
   "engines": {
     "node": "14"

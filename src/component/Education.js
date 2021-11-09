@@ -35,20 +35,37 @@ const Education = () => {
 									<th>AWARD</th>
 								</tr>
 								<tr>
+									<td>Japan International Cooperation Agency </td>
+									<td>September - November, 2018</td>
+									<td><a target="_blank" style={{color:"blue"}} href='https://drive.google.com/file/d/1z7s9BdZuszp65VfgjrTD13EL3BxWSD6z/view?usp=sharing'>Winner, JICA Challenge</a></td>
+								</tr>
+								<tr>
+									<td>Cousera</td>
+									<td>28 - 10 - 2021</td>
+									<td><a target="_blank" style={{color:"blue"}} href='https://drive.google.com/file/d/1s6ValuWrtuA66LUWnVp9rAbWF3QBYqkJ/view?usp=sharing'>C++ Course Certificate</a></td>
+								</tr>
+								<tr>
+									<td>Google Developers</td>
+									<td>12-02-2021</td>
+									<td><a target="_blank" style={{color:"blue"}} href='https://drive.google.com/file/d/1y-psNZPSgVSQ8PwEcmT-4JQXbZChQcc5/view?usp=sharing'>Certificate of participation</a></td>
+								</tr>
+
+								<tr>
 									<td>WomenInFinTech</td>
 									<td>12-18, September, 2020</td>
-									<td>Certificate of excellence in WomenInFinTech hackathon</td>
+									<td><a target="_blank" style={{color:"blue"}} href='https://drive.google.com/file/d/1OP__dc1ccpX_8s2pGLgLSZUDhjkd3hZm/view?usp=sharing'>Certificate of participation</a></td>
 								</tr>
 								<tr>
 									<td>Tunga</td>
 									<td>July - December, 2019</td>
-									<td>Advanced computer programming training</td>
+									<td><a target="_blank" style={{color:"blue"}} href='https://drive.google.com/file/d/1dtPALrZ2e-Nm6RD9BrLuAlLPtx6DWav4/view?usp=sharing'>Certificate of achievement</a></td>
 								</tr>
 								<tr>
 									<td>Andela Uganda Limited</td>
 									<td>September - November, 2018</td>
-									<td>Andela Women in technology certificate</td>
+									<td><a target="_blank" style={{color:"blue"}} href='https://drive.google.com/file/d/1BXeKNKBce_Qu9L2v87h_ign6qMDNKKOW/view?usp=sharing'>Certificate of participation</a></td>
 								</tr>
+
 							</table>
 						</div>
 					</p>

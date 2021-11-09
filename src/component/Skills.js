@@ -8,8 +8,8 @@ const Skills = () => {
 				<h2> Things I Use And Love</h2>
 				<div className='content-abt'>
 					<p>
-						<b>Languages</b> - Javascript (Reactjs, React Native), Python (Python Flask, Python Django, USSD), Php
-						(Codeigniter)
+						<b>Languages</b> - Javascript (Reactjs), Python (Python Flask, USSD), Php
+						(Codeigniter), C++
 					</p>
 					<p>
 						<b>User Interface Design </b>- HTML5, CSS, Sass, Semantic UI React, Material UI, Bootstrap, Wordpress
@@ -18,7 +18,7 @@ const Skills = () => {
 						<b>Project Management Tools</b> - Azure Devops Server, Pivotal Tracker, Trello, Click Up,
 					</p>
 					<p>
-						<b>Design tools </b>- Figma, Adobe XD, Illustrator, Photoshop
+						<b>Design tools </b>- Figma, Adobe XD, Adobe illustrator, Adobe photoshop
 					</p>
 					<p>
 						<b>Continous integration</b> - Circle CI, Travis
@@ -27,10 +27,10 @@ const Skills = () => {
 						<b>API Testing tools - Postman</b>
 					</p>
 					<p>
-						<b>Deployment</b> - Heroku
+						<b>Deployment</b> - Heroku, 
 					</p>
 					<p>
-						<b>Other Skills</b> - Git, Redux, Axios, Fetch, JSON
+						<b>Other Skills</b> - Git, Redux Thunk / Sagas, Axios, Fetch, JSON
 					</p>
 				</div>
 			</div>
