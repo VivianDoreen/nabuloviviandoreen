@@ -5,7 +5,6 @@ const Experience = () => {
 		<div className='content'>
 			<div className='card' style={{ color: '#000000' }}>
 				<h1 style={{ margin: '30px' }}>Experience</h1>
-				<hr />
 				<div className='content-abt'>
 				<p>
 						<b>Corp Consultant / Software Engineer</b> : October 2021 - Present,  Cadence Design Systems

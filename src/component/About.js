@@ -10,9 +10,7 @@ const About = () => {
 					About Vivian <br />
 				</h1>
 				<h2> Producing high-quality websites and exceptional user experience</h2>
-				<hr />
 				<div className='content-abt'>
-					{/* <h5>Hello!</h5> */}
 					<p>
 						Am a Full Stack Web Developer using majorly ReactJs and Flask. I have worked with Andela Uganda Limited,
 						Quest digital finance and Tunga as a software developer. In my spare time I like to create and contribute to

@@ -8,7 +8,6 @@ const Projects = () => {
 		<div className='content'>
 			<div className='card' style={{ color: '#000000' }}>
 				<h1 style={{ margin: '30px' }}>Projects</h1>
-				<hr />
 
 				<div className='content-abt'>
 					<p>
